@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Sazzler-Auth-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Sazzler-Order-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Sazzler-Product-Service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Sazzler-Service-Registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../api-definition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+</project>
